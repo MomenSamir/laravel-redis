@@ -17,6 +17,8 @@ git clone  https://github.com/MomenSamir/laravel-redis.git
 > 
 > add the database settings.
 
+BROADCAST_DRIVER=redis
+
 REDIS_HOST=127.0.0.1
 
 REDIS_PASSWORD=null
