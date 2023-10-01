@@ -60,6 +60,7 @@ redis-cli
 **Test Project**
 
 1-Keep the laravel command running
+
 2-in redis-cli terminal insert this
 ```
 publish test-chaneel "Hello"
